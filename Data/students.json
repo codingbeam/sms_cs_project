@@ -1,0 +1,10 @@
+[
+  {
+    "StudentId": 101,
+    "FirstName": "Kartik",
+    "LastName": "Sharma",
+    "Email": "kartik@example.com",
+    "Age": 40,
+    "Course": "Advanced .Net"
+  }
+]
